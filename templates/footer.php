@@ -1,5 +1,5 @@
 <footer>
-    <h3>Aqui fica o rodapé</h3>
+    <h3>Hora de Codar &copy; 2022</h3>
 </footer>
 </body>
 </html>
