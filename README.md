@@ -12,13 +12,6 @@ Como instalar?
   
 Como utilizar?
   O projeto é apenas para demonstração, não possui funcionalidades de usabilidade além de links que acessam algumas páginas dentro do próprio projeto.
-  
-
-
-Como surgiu?
-O blog surgiu da minha necessidade de treinar PHP durante a minha revisão de um curso que estou fazendo na plataforma Ûdemy.
-
-
 
 
 Segue o link:
